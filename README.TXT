@@ -5,7 +5,7 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Testing GitHub
-PURPOSE OF PROJECT:
+PURPOSE OF PROJECT: Showing update from GI GitHub
 VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
